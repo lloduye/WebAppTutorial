@@ -4,11 +4,11 @@
 // Write your JavaScript code.
 
 
-//functions to be called onmouseover and onmouseout to change the color of "Hello world"
+//functions to be called onmouseover and onmouseout to change the color of my favourite music video title text"
 function newcolor() {
-    document.getElementById("hello_world").style.color="blue"
+    document.getElementById("greentx").style.color = "darkolivegreen"
 }
 
 function oldcolor() {
-    document.getElementById("hello_world").style.color="darkolivegreen"
+    document.getElementById("greentx").style.color = "black"
 }
